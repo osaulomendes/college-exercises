@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+main()
+{
+    float nota1, nota2, nota3, media;
+    char nome;
+    printf("Digite o nome do aluno: ");
+    scanf("%c", &nome);
+    printf("Digite a primeira nota: ");
+            scanf("%d", &nota1);
+            printf("Digite a segundaa nota: ");
+           scanf("%d", &nota2);
+            printf("Digite a terceira nota: ");
+           scanf("%d", &nota3);
+           media <- (nota1+nota2+nota3/3);
+           if (media>=6) {
+            printf("Parabens, %c, ",nome," Você foi aprovado )
+           else {
+               printf("Infelizmente, %c, ",nome," Você foi reprovado )
+           }
+           }
+}
