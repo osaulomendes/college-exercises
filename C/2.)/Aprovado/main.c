@@ -11,7 +11,7 @@ main()
     scanf("%s", &nome);
     printf("Digite a primeira nota: \n");
             scanf("%f", &nota1);
-            printf("Digite a segundaa nota: \n");
+            printf("Digite a segunda nota: \n");
            scanf("%f", &nota2);
             printf("Digite a terceira nota: \n");
            scanf("%f", &nota3);
