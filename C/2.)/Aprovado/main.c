@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Programa que recebe 3 notas e checa se o aluno foi aprovado
 
 main()
 {
